@@ -1,0 +1,5 @@
+﻿来源文件,原始行号,代际,version,会员编号,姓名,等级编码,账户余额（分）,注册日期,账户余额（元）,注册渠道,拒收原因代码,拒收原因
+member_export_20240817.csv,53,v2,v2,M20052,郭蔚然,7,397867,2024-01-11,,,unmapped_level,会员等级 '7' 在 mapping.yaml 的「等级映射」中没有对应项
+member_export_20240817.csv,58,v2,v2,M20057,何书瑶,7,304965,2024-04-10,,,unmapped_level,会员等级 '7' 在 mapping.yaml 的「等级映射」中没有对应项
+member_export_20250923.csv,38,v3,v3,M30031,吴蔚然,7,,2025-09-05,4747.06,应用市场,unmapped_level,会员等级 '7' 在 mapping.yaml 的「等级映射」中没有对应项
+member_export_20250923.csv,73,v3,v3,M30066,胡雨桐,7,,2025-08-25,7519.01,支付宝,unmapped_level,会员等级 '7' 在 mapping.yaml 的「等级映射」中没有对应项
